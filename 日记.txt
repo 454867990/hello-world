@@ -1,2 +1,3 @@
 diary onne
+diary new line test conflict 1
 test how to resolve the conflict
